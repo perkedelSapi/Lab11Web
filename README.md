@@ -54,9 +54,9 @@ $config = [
 
 ##### 1. Tambah List
 
-[1](gambar/1.png)
-[2](gambar/2.png)
+![1](gambar/1.png)
+![2](gambar/2.png)
 ##### 2. Ubah
 
-[3](gambar/3.png)
-[4](gambar/4.png)
+![3](gambar/3.png)
+![4](gambar/4.png)
